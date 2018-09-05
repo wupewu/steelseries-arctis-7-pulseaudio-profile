@@ -13,7 +13,7 @@ By default, pulseaudio only enables the voice chat output. This profile enables 
 
 Download and install:
 
-(Deb not created yet)
+- [pulseaudio-steelseries-arctis-7_0.3_all.deb](https://github.com/bobbyrward/steelseries-arctis-7-pulseaudio-profile/releases/download/0.3/pulseaudio-steelseries-arctis-7_0.3_all.deb)
 
 
 After that, plug in the device to see if it works.
